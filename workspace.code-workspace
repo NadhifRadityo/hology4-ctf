@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.completion.filteredTypes" : [
+			"java.awt.List",
+			"com.sun.*"
+		],
+	},
+}
